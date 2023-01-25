@@ -22,7 +22,7 @@ def div1 (a, b):
     logg.logging.info(f'Div: {a} / {b} = {res}')
     return res
     
-def int_div2(a, b):
+def div2(a, b):
     if b == 0:
         return 'Division is impossible'
     res = a // b

@@ -87,7 +87,7 @@ def menu():
 
 def finish():
     logg.logging.info('Stop program.')
-    print('See you!')
+    print('See you again!')
     exit()
 
 

@@ -246,3 +246,43 @@
 26-01-2023 01:17:12 - user_interface - WARNING - menu - Main menu, wrong item selected.
 26-01-2023 01:17:12 - user_interface - INFO - menu - Start menu.
 26-01-2023 01:19:23 - user_interface - INFO - finish - Stop program.
+26-01-2023 01:20:38 - main - INFO - <module> - Start program
+26-01-2023 01:20:38 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:20:46 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:20:54 - mod_calc - INFO - sub - Sub: 3 - 2 = 1
+26-01-2023 01:20:54 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:20:54 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:20:59 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:21:08 - user_interface - INFO - menu - Start menu div.
+26-01-2023 01:21:11 - user_interface - INFO - menu - Stop menu div.
+26-01-2023 01:23:33 - main - INFO - <module> - Start program
+26-01-2023 01:23:33 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:23:38 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:23:48 - mod_calc - INFO - sub - Sub: 4 - 2 = 2
+26-01-2023 01:23:48 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:23:48 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:23:53 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:24:00 - user_interface - INFO - menu - Start menu div.
+26-01-2023 01:24:06 - user_interface - INFO - menu - Stop menu div.
+26-01-2023 01:24:06 - mod_calc - INFO - div1 - Div: 5 / 3 = 1.6666666666666667
+26-01-2023 01:24:06 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:24:06 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:24:09 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:24:15 - user_interface - INFO - menu - Start menu div.
+26-01-2023 01:24:17 - user_interface - INFO - menu - Stop menu div.
+26-01-2023 01:24:17 - mod_calc - INFO - div2 - Div: 5 // 3 = 1
+26-01-2023 01:24:17 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:24:17 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:24:25 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:24:30 - user_interface - INFO - menu - Start menu div.
+26-01-2023 01:24:34 - user_interface - INFO - menu - Stop menu div.
+26-01-2023 01:24:34 - mod_calc - INFO - div3 - Div: 5 % 3 = 2
+26-01-2023 01:24:34 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:24:34 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:24:45 - user_interface - INFO - menu - Start menu calc. With rational.
+26-01-2023 01:24:50 - user_interface - INFO - menu - Start menu div.
+26-01-2023 01:24:52 - user_interface - INFO - menu - Stop menu div.
+26-01-2023 01:24:52 - mod_calc - INFO - div1 - Div: 5 / 3 = 1.6666666666666667
+26-01-2023 01:24:52 - user_interface - INFO - menu - Stop menu calc.
+26-01-2023 01:24:52 - user_interface - INFO - menu - Start menu.
+26-01-2023 01:25:30 - user_interface - INFO - finish - Stop program.
